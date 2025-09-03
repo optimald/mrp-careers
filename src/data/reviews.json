@@ -1,0 +1,102 @@
+[
+  {
+    "id": "review-1",
+    "name": "Sarah Chen",
+    "role": "Clinical Success Manager",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "MRP truly values work-life balance. I can pursue my passion for clinical excellence while still having time for my family. The leadership genuinely cares about employee wellbeing.",
+    "department": "Customer Success",
+    "tenure": "2 years"
+  },
+  {
+    "id": "review-2",
+    "name": "Marcus Rodriguez",
+    "role": "Supply Chain Specialist",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The growth opportunities here are incredible. I've been promoted twice in three years and the company invests heavily in professional development. The team culture is supportive and collaborative.",
+    "department": "Operations",
+    "tenure": "3 years"
+  },
+  {
+    "id": "review-3",
+    "name": "Dr. Jennifer Kim",
+    "role": "Clinical Trainer",
+    "location": "Remote",
+    "rating": 5,
+    "quote": "Working remotely at MRP has been amazing. The company provides all the tools I need and the flexibility to work from anywhere. My manager trusts me to deliver results and gives me autonomy.",
+    "department": "Training",
+    "tenure": "1 year"
+  },
+  {
+    "id": "review-4",
+    "name": "Alex Thompson",
+    "role": "Ecommerce Manager",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The benefits package is outstanding - comprehensive health coverage, 401k matching, and unlimited PTO. Plus, the office in Park City is beautiful with amazing mountain views.",
+    "department": "Marketing",
+    "tenure": "2 years"
+  },
+  {
+    "id": "review-5",
+    "name": "Lisa Park",
+    "role": "Operations Director",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The company culture is what keeps me here. Everyone is mission-driven and passionate about improving healthcare outcomes. It's rare to find a company where values align so perfectly.",
+    "department": "Operations",
+    "tenure": "4 years"
+  },
+  {
+    "id": "review-6",
+    "name": "David Kim",
+    "role": "Sales Representative",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The sales team here is like a family. We support each other, share best practices, and celebrate wins together. The commission structure is fair and the earning potential is excellent.",
+    "department": "Sales",
+    "tenure": "1.5 years"
+  },
+  {
+    "id": "review-7",
+    "name": "Maria Santos",
+    "role": "HR Coordinator",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "MRP's commitment to diversity and inclusion is genuine. I've seen real action on creating an inclusive workplace where everyone's voice is heard and valued.",
+    "department": "Human Resources",
+    "tenure": "2.5 years"
+  },
+  {
+    "id": "review-8",
+    "name": "James Wilson",
+    "role": "IT Support Specialist",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The technology stack here is cutting-edge and I'm constantly learning new skills. The IT team is collaborative and management encourages innovation and experimentation.",
+    "department": "Information Technology",
+    "tenure": "3 years"
+  },
+  {
+    "id": "review-9",
+    "name": "Rachel Green",
+    "role": "Finance Analyst",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The financial transparency at MRP is refreshing. Leadership shares company performance regularly and employees understand how their work contributes to overall success.",
+    "department": "Finance",
+    "tenure": "1 year"
+  },
+  {
+    "id": "review-10",
+    "name": "Tom Anderson",
+    "role": "Procurement Specialist",
+    "location": "Park City, UT",
+    "rating": 5,
+    "quote": "The procurement team has great work-life balance and the company respects personal time. I've never been expected to work weekends or holidays, which shows real respect for employees.",
+    "department": "Procurement",
+    "tenure": "2 years"
+  }
+]

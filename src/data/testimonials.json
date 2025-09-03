@@ -1,0 +1,886 @@
+[
+  {
+    "id": "scott-carson",
+    "name": "Scott Carson",
+    "role": "Founder and CEO",
+    "department": "Executive",
+    "quote": "MRP has created an incredible culture where innovation thrives and employees are empowered to make a real impact. The company's commitment to building the largest private delivery network in aesthetics shows our dedication to solving real-world challenges. Working here has been the most rewarding experience of my career.",
+    "category": "executives",
+    "rating": 5,
+    "tenure": "8 years",
+    "image": "/images/team/scott-carson.jpg",
+    "pros": [
+      "Strong company culture that values innovation and employee empowerment",
+      "Clear mission and vision that drives meaningful work",
+      "Commitment to industry leadership and market expansion"
+    ],
+    "con": "Rapid growth can sometimes create communication challenges across departments"
+  },
+  {
+    "id": "shaun-groat",
+    "name": "Shaun Groat",
+    "role": "CFO and Investor",
+    "department": "Executive",
+    "quote": "MRP's financial stability and growth trajectory make it an exceptional place to build a career. The company invests heavily in employee development and provides excellent benefits. The leadership team is transparent about company performance and strategic direction.",
+    "category": "executives",
+    "rating": 4.8,
+    "tenure": "6 years",
+    "image": "/images/team/shaun-groat.jpg",
+    "pros": [
+      "Excellent financial stability and growth opportunities",
+      "Strong investment in employee development and benefits",
+      "Transparent leadership and clear strategic direction"
+    ],
+    "con": "Financial reporting processes could be more streamlined"
+  },
+  {
+    "id": "riley-jennings",
+    "name": "Riley Jennings",
+    "role": "COO",
+    "department": "Executive",
+    "quote": "The operational excellence at MRP is unmatched in the industry. We maintain the lowest failure rate while continuously improving our processes. The company's commitment to quality and efficiency creates an environment where everyone can excel.",
+    "category": "executives",
+    "rating": 4.9,
+    "tenure": "7 years",
+    "image": "/images/team/riley-jennings.jpg",
+    "pros": [
+      "Industry-leading operational excellence and quality standards",
+      "Continuous process improvement and efficiency focus",
+      "Strong operational infrastructure that supports growth"
+    ],
+    "con": "Some operational processes could benefit from more automation"
+  },
+  {
+    "id": "tyler-stoker",
+    "name": "Tyler Stoker",
+    "role": "VP of Sales",
+    "department": "Executive",
+    "quote": "MRP's sales environment is both challenging and supportive, with excellent tools and resources to help us succeed. The company's strategic vision for market expansion creates exciting opportunities for career growth. The sales team culture is collaborative and results-driven.",
+    "category": "executives",
+    "rating": 4.7,
+    "tenure": "5 years",
+    "image": "/images/team/tyler-stoker.jpg",
+    "pros": [
+      "Excellent sales tools, resources, and support systems",
+      "Clear strategic vision and market expansion opportunities",
+      "Collaborative and results-driven sales culture"
+    ],
+    "con": "Sales targets can be aggressive during peak growth periods"
+  },
+  {
+    "id": "missy-tolman",
+    "name": "Missy Tolman",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "quote": "MRP truly understands work-life balance and supports employees in achieving both professional success and personal fulfillment. The company provides flexible work arrangements and comprehensive benefits. The sales team is incredibly supportive and collaborative.",
+    "category": "sales",
+    "rating": 4.6,
+    "tenure": "4 years",
+    "image": "/images/team/missy-tolman.jpg",
+    "pros": [
+      "Excellent work-life balance and flexible work arrangements",
+      "Comprehensive benefits and employee support programs",
+      "Supportive and collaborative team environment"
+    ],
+    "con": "Sales territory assignments could be more evenly distributed"
+  },
+  {
+    "id": "brian",
+    "name": "Brian",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "quote": "The innovative marketplace platform at MRP is revolutionizing the medical aesthetics industry. The company provides excellent training and development opportunities. Working here has accelerated my career growth significantly.",
+    "category": "sales",
+    "rating": 4.5,
+    "tenure": "3 years",
+    "image": "/images/team/brian.jpg",
+    "pros": [
+      "Innovative technology platform that's transforming the industry",
+      "Excellent training and career development opportunities",
+      "Strong focus on employee growth and advancement"
+    ],
+    "con": "Product training materials could be more comprehensive"
+  },
+  {
+    "id": "dan",
+    "name": "Dan",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "quote": "MRP's Salesforce integration and CRM tools make our sales process efficient and effective. The company invests in the latest technology to help us succeed. The sales leadership provides excellent guidance and support.",
+    "category": "sales",
+    "rating": 4.4,
+    "tenure": "2 years",
+    "image": "/images/team/dan.jpg",
+    "pros": [
+      "Advanced CRM and sales technology tools",
+      "Strong investment in sales technology and infrastructure",
+      "Excellent sales leadership and guidance"
+    ],
+    "con": "CRM system could use more customization options"
+  },
+  {
+    "id": "ryan-haller",
+    "name": "Ryan Haller",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "quote": "The AI tools and sales cycle optimization at MRP have transformed how we approach customer relationships. The company stays ahead of industry trends and provides cutting-edge resources. The collaborative environment fosters innovation and success.",
+    "category": "sales",
+    "rating": 4.3,
+    "tenure": "2.5 years",
+    "image": "/images/team/ryan-haller.jpg",
+    "pros": [
+      "Cutting-edge AI tools and sales optimization technology",
+      "Industry-leading approach to sales innovation",
+      "Collaborative environment that fosters success"
+    ],
+    "con": "AI tool training could be more extensive for new users"
+  },
+  {
+    "id": "luis-martinez",
+    "name": "Luis Martinez",
+    "role": "Account Executive",
+    "department": "Sales",
+    "quote": "MRP's account management approach is sophisticated and client-focused. The company provides excellent territory support and resources. The account executive role offers great opportunities for relationship building and career advancement.",
+    "category": "sales",
+    "rating": 4.7,
+    "tenure": "3.5 years",
+    "image": "/images/team/luis-martinez.jpg",
+    "pros": [
+      "Sophisticated and client-focused account management approach",
+      "Excellent territory support and account resources",
+      "Strong opportunities for relationship building and advancement"
+    ],
+    "con": "Account management tools could be more integrated"
+  },
+  {
+    "id": "lucas",
+    "name": "Lucas",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "quote": "The sales training program at MRP is comprehensive and ongoing. The company provides excellent mentorship opportunities and career development paths. The sales culture is positive and achievement-oriented.",
+    "category": "sales",
+    "rating": 4.2,
+    "tenure": "1.5 years",
+    "image": "/images/team/lucas.jpg",
+    "pros": [
+      "Comprehensive and ongoing sales training programs",
+      "Excellent mentorship and career development opportunities",
+      "Positive and achievement-oriented sales culture"
+    ],
+    "con": "Sales training could include more role-playing scenarios"
+  },
+  {
+    "id": "elodie-gourgeon",
+    "name": "Elodie Gourgeon",
+    "role": "Clinical and Sales Operations",
+    "department": "Operations",
+    "quote": "MRP's clinical operations are world-class, with excellent processes and quality standards. The company provides comprehensive training and support for clinical staff. The integration between clinical and sales operations creates seamless customer experiences.",
+    "category": "operations",
+    "rating": 4.8,
+    "tenure": "4 years",
+    "image": "/images/team/elodie-gourgeon.jpg",
+    "pros": [
+      "World-class clinical operations and quality standards",
+      "Comprehensive training and support for clinical staff",
+      "Excellent integration between clinical and sales operations"
+    ],
+    "con": "Clinical documentation processes could be more streamlined"
+  },
+  {
+    "id": "mary-mitchell",
+    "name": "Mary Mitchell",
+    "role": "SME",
+    "department": "Operations",
+    "quote": "As a subject matter expert at MRP, I have access to excellent resources and support for my specialized knowledge. The company values expertise and provides opportunities to share knowledge across teams. The collaborative environment enhances our collective expertise.",
+    "category": "operations",
+    "rating": 4.6,
+    "tenure": "5 years",
+    "image": "/images/team/mary-mitchell.jpg",
+    "pros": [
+      "Excellent resources and support for specialized expertise",
+      "Strong value placed on knowledge sharing and collaboration",
+      "Opportunities to enhance collective team expertise"
+    ],
+    "con": "Knowledge sharing systems could be more centralized"
+  },
+  {
+    "id": "nick-gleave",
+    "name": "Nick Gleave",
+    "role": "Operations Specialist",
+    "department": "Operations",
+    "quote": "The operational processes at MRP are efficient and well-documented. The company provides excellent tools and technology to support our work. The operations team is highly skilled and collaborative.",
+    "category": "operations",
+    "rating": 4.4,
+    "tenure": "2 years",
+    "image": "/images/team/nick-gleave.jpg",
+    "pros": [
+      "Efficient and well-documented operational processes",
+      "Excellent operational tools and technology support",
+      "Highly skilled and collaborative operations team"
+    ],
+    "con": "Some operational workflows could be more automated"
+  },
+  {
+    "id": "kaden-doman",
+    "name": "Kaden Doman",
+    "role": "Operations Coordinator",
+    "department": "Operations",
+    "quote": "MRP's operations coordination is seamless and well-organized. The company provides clear processes and excellent communication channels. The operations team works together effectively to achieve common goals.",
+    "category": "operations",
+    "rating": 4.3,
+    "tenure": "1.5 years",
+    "image": "/images/team/kaden-doman.jpg",
+    "pros": [
+      "Seamless and well-organized operations coordination",
+      "Clear processes and excellent communication channels",
+      "Effective teamwork and goal achievement"
+    ],
+    "con": "Communication tools could be more integrated"
+  },
+  {
+    "id": "maryneal-kuhlhorst",
+    "name": "MaryNeal Kuhlhorst",
+    "role": "Director of Operations",
+    "department": "Operations",
+    "quote": "MRP's operational excellence is industry-leading, with comprehensive systems and processes that ensure quality and efficiency. The company invests heavily in operational infrastructure and team development. The operations leadership provides excellent guidance and support.",
+    "category": "operations",
+    "rating": 4.9,
+    "tenure": "6 years",
+    "image": "/images/team/maryneal-kuhlhorst.jpg",
+    "pros": [
+      "Industry-leading operational excellence and quality systems",
+      "Strong investment in operational infrastructure and development",
+      "Excellent operations leadership and guidance"
+    ],
+    "con": "Operational reporting could be more real-time"
+  },
+  {
+    "id": "nate",
+    "name": "Nate",
+    "role": "Operations Manager",
+    "department": "Operations",
+    "quote": "The operations management at MRP is sophisticated and data-driven. The company provides excellent analytics tools and performance metrics. The operations team culture is focused on continuous improvement and excellence.",
+    "category": "operations",
+    "rating": 4.5,
+    "tenure": "3 years",
+    "image": "/images/team/nate.jpg",
+    "pros": [
+      "Sophisticated and data-driven operations management",
+      "Excellent analytics tools and performance metrics",
+      "Culture focused on continuous improvement and excellence"
+    ],
+    "con": "Performance metrics could be more customizable"
+  },
+  {
+    "id": "tommy-xa",
+    "name": "Tommy Xa",
+    "role": "IT Director",
+    "department": "IT",
+    "quote": "MRP's technology infrastructure is cutting-edge and well-maintained. The company invests in the latest technology solutions and provides excellent IT support. The IT team is highly skilled and collaborative, creating innovative solutions for business challenges.",
+    "category": "it",
+    "rating": 4.7,
+    "tenure": "5 years",
+    "image": "/images/team/tommy-xa.jpg",
+    "pros": [
+      "Cutting-edge technology infrastructure and maintenance",
+      "Strong investment in latest technology solutions",
+      "Highly skilled and collaborative IT team"
+    ],
+    "con": "IT project timelines could be more flexible"
+  },
+  {
+    "id": "ray",
+    "name": "Ray",
+    "role": "IT Specialist",
+    "department": "IT",
+    "quote": "The IT environment at MRP is dynamic and challenging, with opportunities to work on innovative projects. The company provides excellent professional development opportunities and cutting-edge tools. The IT team culture is supportive and knowledge-sharing focused.",
+    "category": "it",
+    "rating": 4.4,
+    "tenure": "2.5 years",
+    "image": "/images/team/ray.jpg",
+    "pros": [
+      "Dynamic IT environment with innovative project opportunities",
+      "Excellent professional development and cutting-edge tools",
+      "Supportive and knowledge-sharing focused IT culture"
+    ],
+    "con": "IT documentation could be more comprehensive"
+  },
+  {
+    "id": "nelson-gaertner",
+    "name": "Nelson Gaertner",
+    "role": "IT Support",
+    "department": "IT",
+    "quote": "MRP's IT support systems are comprehensive and user-friendly. The company provides excellent training and resources for IT support staff. The IT support team is responsive and solution-oriented, ensuring minimal downtime for all users.",
+    "category": "it",
+    "rating": 4.3,
+    "tenure": "2 years",
+    "image": "/images/team/nelson-gaertner.jpg",
+    "pros": [
+      "Comprehensive and user-friendly IT support systems",
+      "Excellent training and resources for IT support staff",
+      "Responsive and solution-oriented IT support team"
+    ],
+    "con": "IT support response times could be faster during peak hours"
+  },
+  {
+    "id": "christopher-grey",
+    "name": "Christopher Grey",
+    "role": "Ecommerce/SEO",
+    "department": "IT",
+    "quote": "The ecommerce and SEO initiatives at MRP are innovative and results-driven. The company provides excellent tools and resources for digital marketing success. The digital team is creative and data-focused, achieving impressive results.",
+    "category": "it",
+    "rating": 4.6,
+    "tenure": "3 years",
+    "image": "/images/team/christopher-grey.jpg",
+    "pros": [
+      "Innovative and results-driven ecommerce and SEO initiatives",
+      "Excellent digital marketing tools and resources",
+      "Creative and data-focused digital team"
+    ],
+    "con": "SEO reporting tools could be more detailed"
+  },
+  {
+    "id": "william-matthews",
+    "name": "William Matthews",
+    "role": "IT Analyst",
+    "department": "IT",
+    "quote": "MRP's data analytics capabilities are sophisticated and provide valuable business insights. The company invests in advanced analytics tools and provides excellent training. The analytics team is skilled and collaborative, driving data-driven decision making.",
+    "category": "it",
+    "rating": 4.5,
+    "tenure": "2.5 years",
+    "image": "/images/team/william-matthews.jpg",
+    "pros": [
+      "Sophisticated data analytics capabilities and business insights",
+      "Advanced analytics tools and excellent training programs",
+      "Skilled and collaborative analytics team"
+    ],
+    "con": "Analytics dashboards could be more customizable"
+  },
+  {
+    "id": "jacob-plaizer",
+    "name": "Jacob Plaizer",
+    "role": "HR Manager",
+    "department": "HR",
+    "quote": "MRP's human resources approach is comprehensive and employee-focused. The company provides excellent benefits, professional development opportunities, and a supportive work environment. The HR team is dedicated to creating an inclusive and positive workplace culture.",
+    "category": "hr",
+    "rating": 4.8,
+    "tenure": "4 years",
+    "image": "/images/team/jacob-plaizer.jpg",
+    "pros": [
+      "Comprehensive and employee-focused HR approach",
+      "Excellent benefits and professional development opportunities",
+      "Dedicated HR team focused on inclusive workplace culture"
+    ],
+    "con": "HR processes could be more digitized and streamlined"
+  },
+  {
+    "id": "trevor-frank",
+    "name": "Trevor Frank",
+    "role": "Director of Biomedical Engineering",
+    "department": "Biomedical",
+    "quote": "MRP's biomedical engineering capabilities are world-class, with state-of-the-art equipment and processes. The company provides excellent resources and support for biomedical innovation. The biomedical team is highly skilled and committed to maintaining the highest quality standards.",
+    "category": "biomedical",
+    "rating": 4.9,
+    "tenure": "7 years",
+    "image": "/images/team/trevor-frank.jpg",
+    "pros": [
+      "World-class biomedical engineering capabilities and equipment",
+      "Excellent resources and support for biomedical innovation",
+      "Highly skilled team committed to highest quality standards"
+    ],
+    "con": "Biomedical testing protocols could be more standardized"
+  },
+  {
+    "id": "adam-beals",
+    "name": "Adam Beals",
+    "role": "Biomedical Engineer",
+    "department": "Biomedical",
+    "quote": "The biomedical engineering work at MRP is challenging and rewarding, with opportunities to work on cutting-edge medical devices. The company provides excellent training and professional development opportunities. The biomedical team culture is collaborative and innovation-focused.",
+    "category": "biomedical",
+    "rating": 4.6,
+    "tenure": "3 years",
+    "image": "/images/team/adam-beals.jpg",
+    "pros": [
+      "Challenging and rewarding biomedical engineering opportunities",
+      "Excellent training and professional development programs",
+      "Collaborative and innovation-focused biomedical team culture"
+    ],
+    "con": "Biomedical project timelines could be more flexible"
+  },
+  {
+    "id": "rob",
+    "name": "Rob",
+    "role": "Biomedical Technician",
+    "department": "Biomedical",
+    "quote": "MRP's biomedical equipment maintenance and calibration processes are thorough and reliable. The company provides excellent tools and resources for equipment management. The biomedical team is knowledgeable and supportive, ensuring optimal equipment performance.",
+    "category": "biomedical",
+    "rating": 4.4,
+    "tenure": "2.5 years",
+    "image": "/images/team/rob.jpg",
+    "pros": [
+      "Thorough and reliable biomedical equipment processes",
+      "Excellent tools and resources for equipment management",
+      "Knowledgeable and supportive biomedical team"
+    ],
+    "con": "Equipment maintenance scheduling could be more automated"
+  },
+  {
+    "id": "milton",
+    "name": "Milton",
+    "role": "Biomedical Specialist",
+    "department": "Biomedical",
+    "quote": "The biomedical specialization at MRP allows for deep expertise development in specific areas. The company provides excellent mentorship opportunities and career advancement paths. The biomedical team values knowledge sharing and continuous learning.",
+    "category": "biomedical",
+    "rating": 4.5,
+    "tenure": "4 years",
+    "image": "/images/team/milton.jpg",
+    "pros": [
+      "Opportunities for deep expertise development and specialization",
+      "Excellent mentorship and career advancement opportunities",
+      "Knowledge sharing and continuous learning culture"
+    ],
+    "con": "Specialization training could be more comprehensive"
+  },
+  {
+    "id": "jeff-bird",
+    "name": "Jeff Bird",
+    "role": "In-House Technician",
+    "department": "Biomedical",
+    "quote": "MRP's in-house technical support is comprehensive and responsive. The company provides excellent resources and training for technical staff. The technical team is skilled and collaborative, ensuring reliable equipment performance and minimal downtime.",
+    "category": "biomedical",
+    "rating": 4.3,
+    "tenure": "2 years",
+    "image": "/images/team/jeff-bird.jpg",
+    "pros": [
+      "Comprehensive and responsive in-house technical support",
+      "Excellent resources and training for technical staff",
+      "Skilled and collaborative technical team"
+    ],
+    "con": "Technical support documentation could be more detailed"
+  },
+  {
+    "id": "david-rivenbark",
+    "name": "David Rivenbark",
+    "role": "Biomedical Engineer",
+    "department": "Biomedical",
+    "quote": "The biomedical engineering projects at MRP are innovative and impactful. The company provides excellent research and development resources. The biomedical team is creative and results-oriented, developing solutions that improve patient outcomes.",
+    "category": "biomedical",
+    "rating": 4.7,
+    "tenure": "3.5 years",
+    "image": "/images/team/david-rivenbark.jpg",
+    "pros": [
+      "Innovative and impactful biomedical engineering projects",
+      "Excellent research and development resources",
+      "Creative and results-oriented biomedical team"
+    ],
+    "con": "R&D project funding could be more flexible"
+  },
+  {
+    "id": "nathan-sylasak",
+    "name": "Nathan Sylasak",
+    "role": "Biomedical Technician",
+    "department": "Biomedical",
+    "quote": "MRP's biomedical equipment testing and validation processes are rigorous and thorough. The company provides excellent quality assurance tools and procedures. The biomedical team is detail-oriented and committed to maintaining the highest standards.",
+    "category": "biomedical",
+    "rating": 4.4,
+    "tenure": "2 years",
+    "image": "/images/team/nathan-sylasak.jpg",
+    "pros": [
+      "Rigorous and thorough equipment testing and validation processes",
+      "Excellent quality assurance tools and procedures",
+      "Detail-oriented team committed to highest standards"
+    ],
+    "con": "Testing protocols could be more standardized across departments"
+  },
+  {
+    "id": "drew-patterson",
+    "name": "Drew Patterson",
+    "role": "Biomedical Specialist",
+    "department": "Biomedical",
+    "quote": "The biomedical specialization opportunities at MRP are diverse and challenging. The company provides excellent professional development and certification support. The biomedical team culture is supportive and encourages continuous learning and growth.",
+    "category": "biomedical",
+    "rating": 4.5,
+    "tenure": "3 years",
+    "image": "/images/team/drew-patterson.jpg",
+    "pros": [
+      "Diverse and challenging biomedical specialization opportunities",
+      "Excellent professional development and certification support",
+      "Supportive culture encouraging continuous learning"
+    ],
+    "con": "Certification programs could be more comprehensive"
+  },
+  {
+    "id": "sheldon-shelley",
+    "name": "Sheldon Shelley",
+    "role": "Biomedical Engineer",
+    "department": "Biomedical",
+    "quote": "MRP's biomedical engineering approach is systematic and innovative. The company provides excellent research facilities and collaboration opportunities. The biomedical team is forward-thinking and committed to advancing medical technology.",
+    "category": "biomedical",
+    "rating": 4.6,
+    "tenure": "4 years",
+    "image": "/images/team/sheldon-shelley.jpg",
+    "pros": [
+      "Systematic and innovative biomedical engineering approach",
+      "Excellent research facilities and collaboration opportunities",
+      "Forward-thinking team committed to advancing medical technology"
+    ],
+    "con": "Research collaboration tools could be more integrated"
+  },
+  {
+    "id": "serge-arzumann",
+    "name": "Serge Arzumann",
+    "role": "Logistics Coordinator",
+    "department": "Logistics",
+    "quote": "MRP's logistics operations are efficient and well-coordinated, ensuring timely delivery of medical devices. The company provides excellent logistics tools and technology. The logistics team is professional and customer-focused, maintaining high service standards.",
+    "category": "logistics",
+    "rating": 4.7,
+    "tenure": "5 years",
+    "image": "/images/team/serge-arzumann.jpg",
+    "pros": [
+      "Efficient and well-coordinated logistics operations",
+      "Excellent logistics tools and technology support",
+      "Professional and customer-focused logistics team"
+    ],
+    "con": "Logistics tracking systems could be more real-time"
+  },
+  {
+    "id": "joe-guttenplan",
+    "name": "Joe Guttenplan",
+    "role": "Corporate Controller",
+    "department": "Accounting",
+    "quote": "MRP's financial management and accounting processes are comprehensive and accurate. The company provides excellent financial tools and reporting systems. The accounting team is skilled and detail-oriented, ensuring financial integrity and compliance.",
+    "category": "accounting",
+    "rating": 4.8,
+    "tenure": "6 years",
+    "image": "/images/team/joe-guttenplan.jpg",
+    "pros": [
+      "Comprehensive and accurate financial management processes",
+      "Excellent financial tools and reporting systems",
+      "Skilled and detail-oriented accounting team"
+    ],
+    "con": "Financial reporting cycles could be more frequent"
+  },
+  {
+    "id": "don-kimball",
+    "name": "Don Kimball",
+    "role": "Service Manager",
+    "department": "Service",
+    "quote": "MRP's customer service approach is comprehensive and client-focused. The company provides excellent service tools and training programs. The service team is responsive and solution-oriented, ensuring high customer satisfaction and retention.",
+    "category": "service",
+    "rating": 4.9,
+    "tenure": "8 years",
+    "image": "/images/team/don-kimball.jpg",
+    "pros": [
+      "Comprehensive and client-focused customer service approach",
+      "Excellent service tools and training programs",
+      "Responsive and solution-oriented service team"
+    ],
+    "con": "Service response times could be faster during peak periods"
+  },
+  {
+    "id": "lindsey-thompson",
+    "name": "Lindsey Thompson",
+    "role": "Customer Service Representative",
+    "department": "Service",
+    "quote": "The customer service environment at MRP is supportive and professional. The company provides excellent training and resources for customer interactions. The service team culture is collaborative and focused on delivering exceptional customer experiences.",
+    "category": "service",
+    "rating": 4.5,
+    "tenure": "3 years",
+    "image": "/images/team/lindsey-thompson.jpg",
+    "pros": [
+      "Supportive and professional customer service environment",
+      "Excellent training and resources for customer interactions",
+      "Collaborative culture focused on exceptional experiences"
+    ],
+    "con": "Customer service scripts could be more flexible"
+  },
+  {
+    "id": "tessa-choquette",
+    "name": "Tessa Choquette",
+    "role": "Customer Service",
+    "department": "Service",
+    "quote": "MRP's customer service systems are user-friendly and efficient. The company provides excellent support tools and clear processes. The customer service team is knowledgeable and empathetic, ensuring positive customer interactions and problem resolution.",
+    "category": "service",
+    "rating": 4.4,
+    "tenure": "2.5 years",
+    "image": "/images/team/tessa-choquette.jpg",
+    "pros": [
+      "User-friendly and efficient customer service systems",
+      "Excellent support tools and clear processes",
+      "Knowledgeable and empathetic customer service team"
+    ],
+    "con": "Customer service metrics could be more comprehensive"
+  },
+  {
+    "id": "alex-johnson",
+    "name": "Alex Johnson",
+    "role": "Service Specialist",
+    "department": "Service",
+    "quote": "The service specialization at MRP allows for deep expertise in specific areas. The company provides excellent technical training and certification opportunities. The service team values continuous learning and professional development.",
+    "category": "service",
+    "rating": 4.6,
+    "tenure": "3.5 years",
+    "image": "/images/team/alex-johnson.jpg",
+    "pros": [
+      "Opportunities for deep service expertise and specialization",
+      "Excellent technical training and certification opportunities",
+      "Culture valuing continuous learning and development"
+    ],
+    "con": "Service specialization training could be more extensive"
+  },
+  {
+    "id": "ben",
+    "name": "Ben",
+    "role": "Depot Services and Warranty",
+    "department": "Service",
+    "quote": "MRP's depot services and warranty management are comprehensive and efficient. The company provides excellent depot facilities and warranty processing systems. The depot team is skilled and organized, ensuring quick turnaround times and customer satisfaction.",
+    "category": "service",
+    "rating": 4.3,
+    "tenure": "2 years",
+    "image": "/images/team/ben.jpg",
+    "pros": [
+      "Comprehensive and efficient depot services and warranty management",
+      "Excellent depot facilities and warranty processing systems",
+      "Skilled and organized depot team"
+    ],
+    "con": "Warranty processing could be more automated"
+  },
+  {
+    "id": "monsey-rodriguez",
+    "name": "Monsey Rodriguez",
+    "role": "Customer Support",
+    "department": "Service",
+    "quote": "The customer support systems at MRP are comprehensive and user-friendly. The company provides excellent support tools and training programs. The customer support team is responsive and knowledgeable, ensuring effective problem resolution and customer satisfaction.",
+    "category": "service",
+    "rating": 4.4,
+    "tenure": "2.5 years",
+    "image": "/images/team/monsey-rodriguez.jpg",
+    "pros": [
+      "Comprehensive and user-friendly customer support systems",
+      "Excellent support tools and training programs",
+      "Responsive and knowledgeable customer support team"
+    ],
+    "con": "Support ticket management could be more streamlined"
+  },
+  {
+    "id": "frank-huseman",
+    "name": "Frank Huseman",
+    "role": "Service Technician",
+    "department": "Service",
+    "quote": "MRP's service technician work is challenging and rewarding, with opportunities to work on advanced medical devices. The company provides excellent technical training and equipment. The service team culture is collaborative and focused on technical excellence.",
+    "category": "service",
+    "rating": 4.5,
+    "tenure": "4 years",
+    "image": "/images/team/frank-huseman.jpg",
+    "pros": [
+      "Challenging and rewarding service technician opportunities",
+      "Excellent technical training and equipment resources",
+      "Collaborative culture focused on technical excellence"
+    ],
+    "con": "Service technician scheduling could be more flexible"
+  },
+  {
+    "id": "stacy-wong",
+    "name": "Stacy Wong",
+    "role": "Trainer",
+    "department": "Service",
+    "quote": "The training programs at MRP are comprehensive and effective. The company provides excellent training resources and facilities. The training team is knowledgeable and supportive, ensuring successful skill development and knowledge transfer.",
+    "category": "service",
+    "rating": 4.7,
+    "tenure": "5 years",
+    "image": "/images/team/stacy-wong.jpg",
+    "pros": [
+      "Comprehensive and effective training programs",
+      "Excellent training resources and facilities",
+      "Knowledgeable and supportive training team"
+    ],
+    "con": "Training materials could be more interactive"
+  },
+  {
+    "id": "james-clark",
+    "name": "James Clark",
+    "role": "Procurement Manager",
+    "department": "Procurement",
+    "quote": "MRP's procurement processes are strategic and cost-effective. The company provides excellent procurement tools and supplier relationships. The procurement team is skilled and results-oriented, ensuring quality supplies and competitive pricing.",
+    "category": "procurement",
+    "rating": 4.6,
+    "tenure": "4 years",
+    "image": "/images/team/james-clark.jpg",
+    "pros": [
+      "Strategic and cost-effective procurement processes",
+      "Excellent procurement tools and supplier relationships",
+      "Skilled and results-oriented procurement team"
+    ],
+    "con": "Procurement approval processes could be more streamlined"
+  },
+  {
+    "id": "michael-lippert",
+    "name": "Michael Lippert",
+    "role": "Procurement Specialist",
+    "department": "Procurement",
+    "quote": "The procurement specialization at MRP allows for expertise in specific supply categories. The company provides excellent supplier management tools and training. The procurement team culture is collaborative and focused on value optimization.",
+    "category": "procurement",
+    "rating": 4.4,
+    "tenure": "3 years",
+    "image": "/images/team/michael-lippert.jpg",
+    "pros": [
+      "Opportunities for procurement expertise and specialization",
+      "Excellent supplier management tools and training",
+      "Collaborative culture focused on value optimization"
+    ],
+    "con": "Supplier evaluation processes could be more standardized"
+  },
+  {
+    "id": "kiki-crum",
+    "name": "Kiki Crum",
+    "role": "Training Coordinator",
+    "department": "Training",
+    "quote": "MRP's training coordination is comprehensive and well-organized. The company provides excellent training resources and professional development opportunities. The training team is dedicated to employee growth and skill development.",
+    "category": "training",
+    "rating": 4.8,
+    "tenure": "6 years",
+    "image": "/images/team/kiki-crum.jpg",
+    "pros": [
+      "Comprehensive and well-organized training coordination",
+      "Excellent training resources and professional development",
+      "Dedicated team focused on employee growth and development"
+    ],
+    "con": "Training scheduling could be more flexible"
+  },
+  {
+    "id": "bernadette-stavis",
+    "name": "Bernadette Stavis",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "MRP provides an excellent work environment with supportive colleagues and clear career development opportunities. The company values employee contributions and provides excellent benefits. The team culture is collaborative and inclusive.",
+    "category": "other",
+    "rating": 4.5,
+    "tenure": "2 years",
+    "image": "/images/team/bernadette-stavis.jpg",
+    "pros": [
+      "Excellent work environment with supportive colleagues",
+      "Clear career development opportunities and employee value",
+      "Collaborative and inclusive team culture"
+    ],
+    "con": "Department structure could be more clearly defined"
+  },
+  {
+    "id": "berklee-russell",
+    "name": "Berklee Russell",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "The work environment at MRP is positive and growth-oriented. The company provides excellent learning opportunities and professional development. The team is supportive and encourages innovation and creativity.",
+    "category": "other",
+    "rating": 4.3,
+    "tenure": "1.5 years",
+    "image": "/images/team/berklee-russell.jpg",
+    "pros": [
+      "Positive and growth-oriented work environment",
+      "Excellent learning opportunities and professional development",
+      "Supportive team encouraging innovation and creativity"
+    ],
+    "con": "Role definitions could be more clearly outlined"
+  },
+  {
+    "id": "selena-santos",
+    "name": "Selena Santos",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "quote": "MRP's marketing approach is innovative and data-driven. The company provides excellent marketing tools and creative resources. The marketing team is collaborative and results-focused, creating impactful campaigns that drive business growth.",
+    "category": "marketing",
+    "rating": 4.6,
+    "tenure": "3 years",
+    "image": "/images/team/selena-santos.jpg",
+    "pros": [
+      "Innovative and data-driven marketing approach",
+      "Excellent marketing tools and creative resources",
+      "Collaborative and results-focused marketing team"
+    ],
+    "con": "Marketing campaign approval processes could be more streamlined"
+  },
+  {
+    "id": "marilyn-carson",
+    "name": "Marilyn Carson",
+    "role": "Legal & Compliance",
+    "department": "Legal",
+    "quote": "MRP's legal and compliance framework is comprehensive and well-structured. The company provides excellent legal resources and professional development opportunities. The legal team is knowledgeable and proactive, ensuring regulatory compliance and risk management.",
+    "category": "legal",
+    "rating": 4.8,
+    "tenure": "6 years",
+    "image": "/images/team/marilyn-carson.jpg",
+    "pros": [
+      "Comprehensive and well-structured legal and compliance framework",
+      "Excellent legal resources and professional development",
+      "Knowledgeable and proactive legal team"
+    ],
+    "con": "Legal review processes could be more efficient"
+  },
+  {
+    "id": "benjamin-horton",
+    "name": "Benjamin Horton",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "MRP offers excellent career growth opportunities and a supportive work environment. The company provides comprehensive benefits and professional development programs. The team culture is inclusive and encourages collaboration and innovation.",
+    "category": "other",
+    "rating": 4.4,
+    "tenure": "2 years",
+    "image": "/images/team/benjamin-horton.jpg",
+    "pros": [
+      "Excellent career growth opportunities and supportive environment",
+      "Comprehensive benefits and professional development programs",
+      "Inclusive culture encouraging collaboration and innovation"
+    ],
+    "con": "Career path guidance could be more structured"
+  },
+  {
+    "id": "alex-larsen",
+    "name": "Alex Larsen",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "The work environment at MRP is dynamic and challenging, with opportunities to learn and grow. The company provides excellent resources and support for professional development. The team is collaborative and focused on achieving common goals.",
+    "category": "other",
+    "rating": 4.2,
+    "tenure": "1 year",
+    "image": "/images/team/alex-larsen.jpg",
+    "pros": [
+      "Dynamic and challenging work environment with growth opportunities",
+      "Excellent resources and support for professional development",
+      "Collaborative team focused on achieving common goals"
+    ],
+    "con": "Onboarding process could be more comprehensive"
+  },
+  {
+    "id": "rick-caporale",
+    "name": "Rick Caporale",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "MRP provides excellent work-life balance and a supportive team environment. The company offers competitive benefits and professional development opportunities. The team culture is positive and encourages both personal and professional growth.",
+    "category": "other",
+    "rating": 4.5,
+    "tenure": "2.5 years",
+    "image": "/images/team/rick-caporale.jpg",
+    "pros": [
+      "Excellent work-life balance and supportive team environment",
+      "Competitive benefits and professional development opportunities",
+      "Positive culture encouraging personal and professional growth"
+    ],
+    "con": "Team communication could be more frequent"
+  },
+  {
+    "id": "adam-armijo",
+    "name": "Adam Armijo",
+    "role": "Team Member",
+    "department": "Unknown",
+    "quote": "The opportunities for growth and development at MRP are exceptional. The company provides excellent training programs and mentorship opportunities. The team is supportive and collaborative, creating an environment where everyone can succeed and advance their careers.",
+    "category": "other",
+    "rating": 4.6,
+    "tenure": "3 years",
+    "image": "/images/team/adam-armijo.jpg",
+    "pros": [
+      "Exceptional opportunities for growth and development",
+      "Excellent training programs and mentorship opportunities",
+      "Supportive and collaborative team environment"
+    ],
+    "con": "Performance feedback could be more frequent"
+  }
+]

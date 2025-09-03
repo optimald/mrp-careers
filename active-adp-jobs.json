@@ -1,0 +1,13 @@
+{
+  "scrapedAt": "2025-09-03T19:30:48.978Z",
+  "baseUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a229a23-b938-47ed-bc95-636e054d62a6&ccId=19000101_000001&lang=en_US",
+  "totalActiveJobs": 1,
+  "activeJobs": [
+    {
+      "text": "Finance Manager",
+      "jobId": "564827",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a229a23-b938-47ed-bc95-636e054d62a6&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=564827",
+      "isActive": true
+    }
+  ]
+}

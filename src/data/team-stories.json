@@ -1,0 +1,35 @@
+[
+  {
+    "id": "story-1",
+    "name": "Kiki",
+    "role": "Clinical Success Manager",
+    "department": "Customer Success",
+    "photo": "/images/team/kiki.jpg",
+    "quote": "I love seeing the impact we make. When we deliver a device to a clinic and train their team, we're not just selling equipment - we're helping them transform their practice and serve more patients.",
+    "story": "Kiki joined MRP two years ago and has been instrumental in building our clinical success program. She works directly with medical professionals to ensure they get the most out of our aesthetic devices, from initial sale through training and ongoing support.",
+    "location": "Park City, UT",
+    "tenure": "2 years"
+  },
+  {
+    "id": "story-2",
+    "name": "Josh",
+    "role": "Logistics Specialist",
+    "department": "Operations",
+    "photo": "/images/team/josh.jpg",
+    "quote": "Every device we transport is someone's investment in their practice. Knowing we have the lowest failure rate in the industry and that clinics trust us with their most valuable equipment - that's what drives me every day.",
+    "story": "Josh has been part of the MRP journey through multiple roles, and today he's crushing it in our logistics department. He ensures every aesthetic device arrives safely and on time, maintaining our industry-leading delivery standards.",
+    "location": "Park City, UT",
+    "tenure": "3 years"
+  },
+  {
+    "id": "story-3",
+    "name": "Dr. Sarah",
+    "role": "Clinical Trainer",
+    "department": "Training",
+    "photo": "/images/team/sarah.jpg",
+    "quote": "Training clinicians on aesthetic devices is incredibly rewarding. I get to see the 'aha' moments when they master a new technique, and then hear about the amazing results they're getting for their patients.",
+    "story": "Dr. Sarah brings her clinical background to help medical professionals master our aesthetic devices. She travels across North America training clinicians, ensuring they can safely and effectively use the equipment we sell and deliver.",
+    "location": "Remote",
+    "tenure": "1 year"
+  }
+]

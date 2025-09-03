@@ -1,0 +1,68 @@
+{
+  "company_name": "Powered By MRP",
+  "industry": "Medical Equipment Manufacturing",
+  "company_size": "51-200 employees",
+  "headquarters": "Park City, Utah",
+  "founded": "2015",
+  "website": "http://www.mrp.io",
+  "description": "Powered by MRP wants to radically decrease healthcare cost with technology first solutions. Our commitment is to build the first digitally enabled end-to-end marketplace for Medical Aesthetic Professional. At Powered by MRP we focus on providing aesthetic lasers & devices, resources, training, education and support to our customers to empower them to deliver top service to their clients.",
+  "specialties": [
+    "Medical Device Marketplace",
+    "Aesthetic Solutions",
+    "Intense Pulsed Light (IPL)",
+    "Aesthetic Devices",
+    "Lasers",
+    "Dermatology",
+    "Plastic Surgery",
+    "Medspas",
+    "New Devices",
+    "Refurbished Devices"
+  ],
+  "funding": {
+    "last_round": "Series A",
+    "date": "July 5, 2024",
+    "investors": [
+      "Broadhaven Capital Partners",
+      "Aries Capital Partners"
+    ]
+  },
+  "unique_features": [
+    "Largest private delivery network in aesthetics",
+    "Lowest failure rate in the industry",
+    "Technology-first solutions",
+    "Digitally enabled marketplace"
+  ],
+  "benefits": [
+    "Medical/Dental/Vision",
+    "401(k) match",
+    "Generous PTO",
+    "Remote stipend",
+    "Learning budget",
+    "Top-tier hardware"
+  ],
+  "hiring_process": [
+    {
+      "step": 1,
+      "title": "Intro",
+      "duration": "30 min",
+      "description": "Initial conversation to understand your background and interests"
+    },
+    {
+      "step": 2,
+      "title": "Technical/Role Deep Dive",
+      "duration": "60–90 min",
+      "description": "Role-specific technical assessment and skills evaluation"
+    },
+    {
+      "step": 3,
+      "title": "Team Panel",
+      "duration": "60 min",
+      "description": "Meet the team and discuss culture fit"
+    }
+  ],
+  "contact": {
+    "careers_email": "careers@mrp.io",
+    "training_email": "training@mrp.io",
+    "phone": "435-704-9688"
+  }
+}

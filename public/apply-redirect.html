@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apply for Ecommerce Specialist - MRP Careers</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+        .job-title {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 25px;
+            border-radius: 10px;
+            margin: 20px 0;
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+        .redirect-btn {
+            background: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin: 10px;
+            transition: all 0.3s ease;
+        }
+        .redirect-btn:hover {
+            background: #45a049;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .back-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+        }
+        .back-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        .loading {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Redirecting to Application</h1>
+        <div class="job-title" id="jobTitle">Loading...</div>
+        <p>You're being redirected to our official application portal...</p>
+        <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a229a23-b938-47ed-bc95-636e054d62a6&ccId=19000101_000001&lang=en_US" class="redirect-btn" id="redirectBtn">Continue to Application</a>
+        <a href="https://mrp-careers.netlify.app" class="redirect-btn back-btn">← Back to Careers</a>
+        <div class="loading">If you're not redirected automatically, click the button above.</div>
+    </div>
+
+    <script>
+        // Get job title from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const jobTitle = urlParams.get('job') || 'Position';
+        
+        // Update page content
+        document.getElementById('jobTitle').textContent = jobTitle;
+        document.title = `Apply for ${jobTitle} - MRP Careers`;
+        
+        // Auto-redirect after 3 seconds
+        setTimeout(() => {
+            window.location.href = 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a229a23-b938-47ed-bc95-636e054d62a6&ccId=19000101_000001&lang=en_US';
+        }, 3000);
+        
+        // Update redirect button
+        document.getElementById('redirectBtn').textContent = `Apply for ${jobTitle}`;
+    </script>
+</body>
+</html>

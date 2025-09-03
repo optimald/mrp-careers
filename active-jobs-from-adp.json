@@ -1,0 +1,22 @@
+[
+  {
+    "id": "finance-manager",
+    "title": "Finance Manager",
+    "department": "Finance",
+    "location": "Park City, UT",
+    "type": "Full Time",
+    "salary_min": 80000,
+    "salary_max": 120000,
+    "currency": "USD",
+    "description_md": "Join our team as a Finance Manager at MRP. We're looking for dedicated professionals to help us build the future of medical aesthetics. This role offers the opportunity to work with cutting-edge technology and make a real impact in the medical device industry.",
+    "requirements_md": "- Relevant experience in finance manager\n- Strong communication and interpersonal skills\n- Team player with collaborative mindset\n- Commitment to excellence and continuous improvement\n- Bachelor's degree or equivalent experience preferred",
+    "nice_to_haves_md": "- Medical device industry experience\n- Previous experience in similar role\n- Advanced certifications or training\n- Knowledge of medical aesthetics market",
+    "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a229a23-b938-47ed-bc95-636e054d62a6&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=564827",
+    "posted_at": "2025-09-03",
+    "remote": false,
+    "locations": [
+      "Park City, UT"
+    ],
+    "employment_type": "FULL_TIME"
+  }
+]
