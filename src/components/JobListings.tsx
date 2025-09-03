@@ -42,13 +42,13 @@ export default function JobListings({ jobs }: JobListingsProps) {
   }, [jobs, selectedDepartment, selectedLocation, selectedType])
 
   return (
-    <section id="jobs" className="py-20 bg-white">
+    <section id="jobs" className="py-20 bg-dark-600">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Open Roles
           </h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Join our team and help us sell, train, and transport the aesthetic devices that transform practices
           </p>
         </div>
@@ -58,7 +58,7 @@ export default function JobListings({ jobs }: JobListingsProps) {
           <select
             value={selectedDepartment}
             onChange={(e) => setSelectedDepartment(e.target.value)}
-            className="px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-mrp-500 focus:border-mrp-500"
+            className="px-4 py-2 bg-dark-700 border border-dark-500 rounded-lg text-white focus:ring-2 focus:ring-accent-500 focus:border-accent-500"
           >
             {departments.map(dept => (
               <option key={dept} value={dept}>{dept}</option>
@@ -68,7 +68,7 @@ export default function JobListings({ jobs }: JobListingsProps) {
           <select
             value={selectedLocation}
             onChange={(e) => setSelectedLocation(e.target.value)}
-            className="px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-mrp-500 focus:border-mrp-500"
+            className="px-4 py-2 bg-dark-700 border border-dark-500 rounded-lg text-white focus:ring-2 focus:ring-accent-500 focus:border-accent-500"
           >
             {locations.map(location => (
               <option key={location} value={location}>{location}</option>
@@ -78,7 +78,7 @@ export default function JobListings({ jobs }: JobListingsProps) {
           <select
             value={selectedType}
             onChange={(e) => setSelectedType(e.target.value)}
-            className="px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-mrp-500 focus:border-mrp-500"
+            className="px-4 py-2 bg-dark-700 border border-dark-500 rounded-lg text-white focus:ring-2 focus:ring-accent-500 focus:border-accent-500"
           >
             {types.map(type => (
               <option key={type} value={type}>{type}</option>
@@ -95,14 +95,14 @@ export default function JobListings({ jobs }: JobListingsProps) {
 
         {filteredJobs.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-gray-500 text-lg">No jobs match your current filters.</p>
+            <p className="text-gray-400 text-lg">No jobs match your current filters.</p>
             <button
               onClick={() => {
                 setSelectedDepartment('All')
                 setSelectedLocation('All')
                 setSelectedType('All')
               }}
-              className="mt-4 text-mrp-600 hover:text-mrp-700 font-medium"
+              className="mt-4 text-accent-400 hover:text-accent-300 font-medium transition-colors"
             >
               Clear filters
             </button>

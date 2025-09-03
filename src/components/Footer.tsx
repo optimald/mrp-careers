@@ -12,9 +12,11 @@ export default function Footer({ company }: FooterProps) {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-10 h-10 bg-mrp-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">MRP</span>
-              </div>
+              <img
+                src="/mrp-logo-white.png"
+                alt="MRP Logo"
+                className="h-10 w-auto"
+              />
               <span className="text-xl font-semibold">
                 Powered by People
               </span>

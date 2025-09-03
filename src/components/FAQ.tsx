@@ -36,27 +36,27 @@ export default function FAQ({ company }: FAQProps) {
   ]
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section className="py-20 bg-dark-800">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             FAQ
           </h2>
-          <p className="text-xl text-gray-600">
+          <p className="text-xl text-gray-300">
             Common questions about working at MRP
           </p>
         </div>
 
         <div className="space-y-4">
           {faqs.map((faq, index) => (
-            <div key={index} className="bg-white rounded-lg border border-gray-200">
+            <div key={index} className="dark-card rounded-lg border border-dark-600">
               <button
-                className="w-full px-6 py-4 text-left flex justify-between items-center hover:bg-gray-50 transition-colors"
+                className="w-full px-6 py-4 text-left flex justify-between items-center hover:bg-dark-600 transition-colors"
                 onClick={() => setOpenIndex(openIndex === index ? null : index)}
               >
-                <span className="font-medium text-gray-900">{faq.question}</span>
+                <span className="font-medium text-white">{faq.question}</span>
                 <svg
-                  className={`w-5 h-5 text-gray-500 transition-transform ${
+                  className={`w-5 h-5 text-gray-400 transition-transform ${
                     openIndex === index ? 'rotate-180' : ''
                   }`}
                   fill="none"
@@ -68,7 +68,7 @@ export default function FAQ({ company }: FAQProps) {
               </button>
               {openIndex === index && (
                 <div className="px-6 pb-4">
-                  <p className="text-gray-600">{faq.answer}</p>
+                  <p className="text-gray-300">{faq.answer}</p>
                 </div>
               )}
             </div>
@@ -76,20 +76,20 @@ export default function FAQ({ company }: FAQProps) {
         </div>
 
         <div className="text-center mt-12">
-          <div className="bg-white rounded-lg p-6 border border-gray-200">
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">
+          <div className="dark-card rounded-lg p-6 border border-dark-600">
+            <h3 className="text-lg font-semibold text-white mb-2">
               Still have questions?
             </h3>
-            <p className="text-gray-600 mb-4">
+            <p className="text-gray-300 mb-4">
               Reach out to our team at{' '}
               <a
                 href={`mailto:${company?.contact.careers_email || 'careers@mrp.io'}`}
-                className="text-mrp-600 hover:text-mrp-700 font-medium"
+                className="text-accent-400 hover:text-accent-300 font-medium transition-colors"
               >
                 {company?.contact.careers_email || 'careers@mrp.io'}
               </a>
             </p>
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-gray-400">
               MRP is an Equal Opportunity Employer committed to diversity and inclusion.
             </p>
           </div>

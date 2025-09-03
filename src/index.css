@@ -8,9 +8,9 @@
   font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color-scheme: light;
-  color: #213547;
-  background-color: #ffffff;
+  color-scheme: dark;
+  color: #E5E7EB;
+  background-color: #1A1A1A;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -25,9 +25,46 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #1A1A1A;
+  color: #E5E7EB;
 }
 
 #root {
   width: 100%;
   min-height: 100vh;
+  background-color: #1A1A1A;
+}
+
+/* Dark theme custom styles */
+.dark-card {
+  background-color: #2D3748;
+  border: 1px solid #4A5568;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+
+.dark-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+  border-color: #718096;
+}
+
+.dark-button {
+  background-color: #4C51BF;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.dark-button:hover {
+  background-color: #6366F1;
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.3);
+}
+
+.dark-accent-button {
+  background-color: #ED8936;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.dark-accent-button:hover {
+  background-color: #F6AD55;
+  box-shadow: 0 0 20px rgba(237, 137, 54, 0.3);
 }

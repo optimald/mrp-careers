@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import JobListings from './components/JobListings'
 import WhyMRP from './components/WhyMRP'
 import Testimonials from './components/Testimonials'
+import Location from './components/Location'
 import Benefits from './components/Benefits'
 import HiringProcess from './components/HiringProcess'
 import FAQ from './components/FAQ'
@@ -29,12 +30,13 @@ function App() {
   return (
     <Router>
       <div className="min-h-screen bg-white">
-        <Header />
+        <Header jobs={jobs} />
         <Routes>
           <Route path="/" element={
             <>
-              <Hero company={company} />
+              <Hero company={company} jobs={jobs} />
               <Testimonials testimonials={testimonials} />
+              <Location />
               <JobListings jobs={jobs} />
               <WhyMRP company={company} />
               <Benefits company={company} />

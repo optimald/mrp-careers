@@ -27,13 +27,13 @@ export default function HiringProcess({ company }: HiringProcessProps) {
   ]
 
   return (
-    <section id="hiring" className="py-20 bg-white">
+    <section id="hiring" className="py-20 bg-dark-700">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             How We Hire
           </h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Simple, transparent process. Offer within 5 business days.
           </p>
         </div>
@@ -42,16 +42,16 @@ export default function HiringProcess({ company }: HiringProcessProps) {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {process.map((step, index) => (
               <div key={index} className="text-center">
-                <div className="w-16 h-16 bg-mrp-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-accent-500 rounded-full flex items-center justify-center mx-auto mb-4">
                   <span className="text-white text-xl font-bold">{step.step}</span>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                <h3 className="text-xl font-semibold text-white mb-2">
                   {step.title}
                 </h3>
-                <p className="text-mrp-600 font-medium mb-3">
+                <p className="text-accent-400 font-medium mb-3">
                   {step.duration}
                 </p>
-                <p className="text-gray-600">
+                <p className="text-gray-300">
                   {step.description}
                 </p>
               </div>
@@ -59,11 +59,11 @@ export default function HiringProcess({ company }: HiringProcessProps) {
           </div>
 
           <div className="text-center mt-12">
-            <div className="bg-mrp-50 rounded-lg p-6 max-w-2xl mx-auto">
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">
+            <div className="dark-card rounded-lg p-6 max-w-2xl mx-auto shadow-dark-lg">
+              <h3 className="text-lg font-semibold text-white mb-2">
                 Quick turnaround
               </h3>
-              <p className="text-gray-600">
+              <p className="text-gray-300">
                 We respect your time. Expect to hear back within 5 business days after your final interview.
               </p>
             </div>

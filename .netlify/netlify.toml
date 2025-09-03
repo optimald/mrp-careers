@@ -10,7 +10,6 @@ headers = []
 publish = "/Users/flux/Library/Mobile Documents/com~apple~CloudDocs/Documents/mrp-careers/dist"
 publishOrigin = "config"
 commandOrigin = "config"
-base = "/Users/flux/Library/Mobile Documents/com~apple~CloudDocs/Documents/mrp-careers"
 command = "npm run build"
 
 [build.environment]
